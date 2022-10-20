@@ -14,3 +14,4 @@ https://docs.google.com/document/d/1v7Pgbja0Eojll_aYcth0Fb7SNMRabkQ9-Z6bfTYncF8/
 - T-test: Avg of actual days vs Avg of estimated days 
 - Multivariable Regression with interaction variables (days taken to ship * region): Sales analysis on shipping efficiency by region
 
+NOTE: codes are commented within STATA log/do file 
